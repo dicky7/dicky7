@@ -73,10 +73,8 @@
 
 
 ## 📖 Industry Knowledge
-- System Design
 - UI/UX
 - Agile Development
-- Design Pattern
 - Scrum Methodology
 
 ----------------------------------------
