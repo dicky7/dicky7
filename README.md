@@ -8,9 +8,9 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning **To be Extroverted**
+- 🌱 I’m currently learning **Mobile Development Field**
 
-- 👯 I’m looking to collaborate on **Android**
+- 👯 I’m looking to collaborate on **Mobile App Project**
 
 - 💬 Ask me about Anything 😆
 
@@ -56,7 +56,7 @@
 </p>
 
 
-## 🛠 Android Technologies Ability
+## 🛠 Technologies Ability
 - Instrumentations Testing
 - Unit Testing
 - Pagination
@@ -69,6 +69,7 @@
 - Encryption
 - Obfuscation
 - SSL Pinning
+- State Management (Bloc & Provider)
 
 
 ## 📖 Industry Knowledge
