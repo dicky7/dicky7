@@ -8,7 +8,7 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning **Mobile Development Field**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Mobile App Project**
 
