@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dicky Angga <img src="https://media.giphy.com/media/a7MPJUMjxXE7Ddk6B7/giphy.gif" width="85"></h1>
-<h3 align="center">A passionate Mobile Apps Developer from East Borneo</h3>
+<h3 align="center">A passionate Mobile Apps Developer</h3>
 
 </em></p>
 
