@@ -66,10 +66,7 @@
 - Reactive Programming
 - Dependency Injection
 - Continous Integration
-- Encryption
-- Obfuscation
-- SSL Pinning
-- State Management (Bloc & Provider)
+- Flutter State Management (Bloc & Provider)
 
 
 ## 📖 Industry Knowledge
